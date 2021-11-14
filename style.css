@@ -1,0 +1,38 @@
+img
+{
+    width: 100px;
+    height: 100px;
+}
+#title
+{
+    font-size: 24px;
+}
+body
+{
+    background-color:rgb(22, 181, 255);
+}
+
+.text_images_and_result
+{
+    box-shadow: 5px 5px 18px black;
+    width: 80%;
+    height: 400px;
+}
+.copy-right-footer
+{
+    position: fixed;
+    color: aliceblue;
+    bottom: 0;
+    width: 100%;
+    background:darkslateblue;
+    line-height: 3;
+    text-align: center;  
+}
+
+#test
+{
+    width: 300px;
+    height: 225px;
+    border-radius: 20px;
+    box-shadow: 5px 5px 18px black;
+}
